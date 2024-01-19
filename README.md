@@ -1,10 +1,9 @@
 # netflix-clone
+
 Netflix Clone built with ReactJS and Redux
 
-Deployed on Vercel: https://netflix-clone-five-vert.vercel.app/
+Deployed on Netlify:
 
 ![](img/netflix-clone1.png)
 
 ![](img/netflix-clone2.png)
-
-
